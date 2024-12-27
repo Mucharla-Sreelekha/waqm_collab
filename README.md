@@ -124,4 +124,4 @@ Acknowledgments
 - OpenWeatherMap: Weather and AQI data API.
 
 ---
-Feel free to connect and contribute to make this application even better
+Feel free to connect and contribute to make this application even better !
